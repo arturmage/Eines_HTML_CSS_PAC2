@@ -1,6 +1,6 @@
-# Cuina Catalana – PAC1 · Eines HTML i CSS (UOC)
+# Cuina Catalana – PAC2 · Eines HTML i CSS (UOC)
 
-Aquest projecte forma part de la PAC1 de l'assignatura **Eines HTML i CSS** del Màster en Aplicacions i Llocs Web de la UOC. L'objectiu és dissenyar i desplegar un lloc web responsive amb una temàtica lliure relacionada amb **cuines del món**. La proposta escollida és una presentació de la **cuina tradicional catalana**, amb receptes, enllaços i informació d'interès.
+Aquest projecte forma part de la PAC2 de l'assignatura **Eines HTML i CSS** del Màster en Aplicacions i Llocs Web de la UOC. L'objectiu és dissenyar i desplegar un lloc web responsive amb una temàtica lliure relacionada amb **cuines del món**. La proposta escollida és una presentació de la **cuina tradicional catalana**, amb receptes, enllaços i informació d'interès. El repositori parteix de l'anterior antrega, la PAC1: https://github.com/arturmage/Eines_HTML_CSS_PAC1  
 
 ## Enllaç al lloc web
 [cuinacatalana.netlify.app](https://cuinacatalana.netlify.app/)
